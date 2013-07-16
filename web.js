@@ -6,7 +6,6 @@ var app = express.createServer(express.logger());
 var indexContent = fs.readFileSync('index.html', { encoding : 'utf8' });
 
 app.get('/', function(request, response) {
-  //response.send('Hello World 2!');
   response.send(indexContent);    
 });
 
