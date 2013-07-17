@@ -1,1 +1,16 @@
-["h1", ".navigation"]
+["div.heading div h1", 
+"div.container div.navigation",
+"div.navigation div.logo",
+"div.navigation div.blank",
+"div.navigation div.about",
+"div.container div.heading",
+"div.container div.subheading",
+"div.container div.pitch",
+"div.pitch div.video",
+"div.pitch div.thermometer",
+"div.pitch .order",
+"div.pitch .social",
+"div.container div.section1",
+"div.container div.section2",
+"div.container div.faq",
+"div.container div.footer"]
